@@ -14,7 +14,7 @@ namespace itm.csharp.basic
             Console.WriteLine("8. Sumar números impares entre 1 y 100.");
             Console.WriteLine("9. Operaciones con fracciones.");
             Console.WriteLine("10. Comportamiento de vehículos.");
-            Console.WriteLine("11. Ingresar 5 números validos.");
+            Console.WriteLine("11. Ingresar 3 números validos.");
             Console.WriteLine("12. Animales hablando.");
             Console.WriteLine("13. Categorizar por edad.");
             Console.WriteLine("14. Agregar contactos a una agenda.");
