@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bucles_poliformismo_excepciones", "bucles_poliformismo_excepciones\bucles_poliformismo_excepciones.csproj", "{F66D300C-908E-E616-266C-71557AA7458D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clases_y_herencia", "clases_y_herencia\clases_y_herencia.csproj", "{A8A4370F-CB6F-DF00-F939-9C67E9914B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditionals_and_operators", "conditionals_and_operators\conditionals_and_operators.csproj", "{82C25C04-4C88-3DE9-6A92-EC713F3751A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{3A798C92-DA22-B784-11D5-249F2DEA19E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "conditionals_and_operators (1)", "conditionals_and_operators (1)", "{D0611171-42CE-CB79-0FC1-4BEA4CFB5D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clases_y_herencia", "conditionals_and_operators\clases_y_herencia\clases_y_herencia.csproj", "{106E65B1-E126-F45D-8406-BBB2B863AF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66D300C-908E-E616-266C-71557AA7458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66D300C-908E-E616-266C-71557AA7458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66D300C-908E-E616-266C-71557AA7458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66D300C-908E-E616-266C-71557AA7458D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A4370F-CB6F-DF00-F939-9C67E9914B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A4370F-CB6F-DF00-F939-9C67E9914B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A4370F-CB6F-DF00-F939-9C67E9914B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A4370F-CB6F-DF00-F939-9C67E9914B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C25C04-4C88-3DE9-6A92-EC713F3751A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C25C04-4C88-3DE9-6A92-EC713F3751A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C25C04-4C88-3DE9-6A92-EC713F3751A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C25C04-4C88-3DE9-6A92-EC713F3751A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A798C92-DA22-B784-11D5-249F2DEA19E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A798C92-DA22-B784-11D5-249F2DEA19E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A798C92-DA22-B784-11D5-249F2DEA19E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A798C92-DA22-B784-11D5-249F2DEA19E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106E65B1-E126-F45D-8406-BBB2B863AF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106E65B1-E126-F45D-8406-BBB2B863AF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106E65B1-E126-F45D-8406-BBB2B863AF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106E65B1-E126-F45D-8406-BBB2B863AF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{106E65B1-E126-F45D-8406-BBB2B863AF89} = {D0611171-42CE-CB79-0FC1-4BEA4CFB5D44}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07E31C9-B4BD-4562-84FA-233969BC0A6C}
+	EndGlobalSection
+EndGlobal
